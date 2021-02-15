@@ -11,7 +11,7 @@
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn]((https://www.linkedin.com/in/nat%C3%A3-abner-b34893158)
 * [Medium](https://www.medium.com)
 
 

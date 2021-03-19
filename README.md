@@ -8,7 +8,7 @@
 <sub></sub>
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nat%C3%A3-abner-b34893158)
@@ -16,15 +16,14 @@
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** 
-* **Como Implementar Regressão Linear com Python:** 
+* **** 
+* **** 
 * **Data Science: Investigando o naufrágio do Titanic:** 
-* **Como Tratar Dados Ausentes com Pandas:** 
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-* **Como criar uma Wordcloud em Python:** h
-* **Como lidar com dados desbalanceados:** 
+* **** 
+* **** 
+* **** 
+* **:** 
 
 ---
 
